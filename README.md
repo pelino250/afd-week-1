@@ -1,6 +1,6 @@
 # afd-week-1
 
-# GitHub Classroom Exercise: Converting Non-Semantic HTML to Semantic HTML
+# Converting Non-Semantic HTML to Semantic HTML
 
 ## Exercise Overview
 
